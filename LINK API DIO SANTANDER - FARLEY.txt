@@ -1,3 +1,3 @@
 https://dio-bankline-api-farley.herokuapp.com/swagger-ui/index.html
 
-//Copie e cole no navegador ;)
+//Copie e cole o link acima no seu navegador ;)
