@@ -1,3 +1,0 @@
-[Link da API Hehoku AQUI](https://dio-bankline-api-farley.herokuapp.com/swagger-ui/index.html)
-
-//Copie e cole o link acima no seu navegador ;)
